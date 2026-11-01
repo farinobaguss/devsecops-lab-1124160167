@@ -1,8 +1,10 @@
 {
-  "name": "vulnerable-app",
+  "name": "devsecops-lab",
   "version": "1.0.0",
+  "description": "DevSecOps Lab Vulnerable App",
+  "main": "app.js",
   "dependencies": {
     "express": "4.16.0",
-    "lodash": "4.17.11"
+    "lodash": "4.17.15"
   }
 }
